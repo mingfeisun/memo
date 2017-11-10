@@ -1,4 +1,4 @@
-## Study Materials
+## Learn More
 
 * Mingfei Sun (mingfei.sun.hk@gmail.com)
 * Created: 2017-11-10
