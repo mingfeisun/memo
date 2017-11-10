@@ -20,6 +20,20 @@
 
 ---
 
+### Computer Vision I: Variational Methods
+* Instructor: Daniel Cremers
+* Institute: Technical University of Munich
+* More: Variational Methods are among the most classical techniques for optimization of cost functions in higher dimension. Many challenges in Computer Vision and in other domains of research can be formulated as variational methods. Examples include denoising, deblurring, image segmentation, tracking, optical flow estimation, depth estimation from stereo images or 3D reconstruction from multiple views.
+* [Link](https://vision.in.tum.de/teaching/ws2016/vmcv2016)
+
+### Computer Vision II: Multiple View Geometry
+* Instructor: Daniel Cremers
+* Institute: Technical University of Munich
+* More: The lecture introduces the basic concepts of image formation - perspective projection and camera motion. The goal is to reconstruct the three-dimensional world and the camera motion from multiple images. To this end, one determines correspondences between points in various images and respective constraints that allow to compute motion and 3D structure. A particular emphasis of the lecture is on mathematical descriptions of rigid body motion and of perspective projection. For estimating camera motion and 3D geometry we will make use of both spectral methods and methods of nonlinear optimization.
+* [Link](https://vision.in.tum.de/teaching/ss2017/mvg2017)
+
+---
+
 ### Reinforcement Learning
 * Instructor: David Silver
 * Institute: University College London
