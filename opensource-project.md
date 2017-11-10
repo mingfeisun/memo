@@ -1,4 +1,4 @@
-## Useful Opensource Project
+## Useful Open-Source Projects
 
 * Mingfei Sun
 * Created: 2017-11-10
