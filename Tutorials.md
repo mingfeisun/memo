@@ -1,4 +1,4 @@
-## Learn More
+## Study Resources for Human-Robot Interaction Research
 
 * Mingfei Sun (mingfei.sun.hk@gmail.com)
 * Created: 2017-11-10
