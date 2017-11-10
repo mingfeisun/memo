@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-09
-* Last modified: 2017-11-09
+* Updated: 2017-11-09
 
 ### Preliminary
 ``` bash
