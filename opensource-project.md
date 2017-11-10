@@ -61,3 +61,7 @@ QtAV is a multimedia playback library based on Qt and FFmpeg. It can help you to
 Scrapy is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing. 
 [Link](https://github.com/scrapy/scrapy)
 
+#### draw.io
+draw.io is an online diagramming web site that delivers the source in this project. draw.io uses the mxGraph library as the base of the stack, with the GraphEditor example from mxGraph as the base of the application part. The mxGraph library build used is stored under /etc/mxgraph/mxClient.js. 
+[Link](https://github.com/jgraph/drawio)
+
