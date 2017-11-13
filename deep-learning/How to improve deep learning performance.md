@@ -9,6 +9,7 @@ I have divided the list into 4 sub-topics:
 2. Improve Performance With Algorithms.
 3. Improve Performance With Algorithm Tuning.
 4. Improve Performance With Ensembles.
+
 The gains often get smaller the further down the list. For example, a new framing of your problem or more data is often going to give you more payoff than tuning the parameters of your best performing algorithm. Not always, but in general.
 
 #### 1. Improve performance with data
