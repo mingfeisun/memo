@@ -22,3 +22,4 @@ That calls command2 with 3 arguments:
 ``` bash
 command2 word1 word2 word3
 ```
+[Link](https://serverfault.com/questions/641983/how-to-pass-command-output-as-several-arguments-to-another-command)
