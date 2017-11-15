@@ -1,7 +1,7 @@
 ### Insights on Keras Framework
 * Mingfei Sun
 * Created: 2017-11-13
-* Updated: 2017-11-14
+* Updated: 2017-11-15
 
 ### model.fit() does not return the best model
 Unless you are using ModelCheckpoint callback with save_best_only parameter, model.fit() returns not the best model encountered during the training (i.e. the one with the lowest validation loss or with highest validation accuracy), but rather the model whatever it happens to be at the last epoch (which cannot be counted on to have lowest loss or highest accuracy).
