@@ -1,5 +1,9 @@
 ## Recurrent Neural Network
 
+* Mingfei Sun
+* Created: 2017-11-16
+* Updated: 2017-11-16
+
 ### Optimizing RNN performance
 This is part I of a multi-part series detailing some of the techniques we've used here at Baidu's Silicon Valley AI Lab to accelerate the training of recurrent neural networks. This part focuses on GEMM performance. Later entries might focus on how we parallelize across GPUs, working with half precision, efficient GPU CTC calculation, GRU and LSTM implementation tricks…
 [Link](http://svail.github.io/rnn_perf/)
