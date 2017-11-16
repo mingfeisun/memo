@@ -25,3 +25,8 @@ After completing this tutorial, you will know:
 * How to vary the batch size used for training from that used for predicting.
 
 [Link](https://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/)
+
+### Stateful LSTM in Keras
+The idea of this post is to provide a brief and clear understanding of the stateful mode, introduced for LSTM models in Keras. If you have ever typed the words lstm and stateful in Keras, you may have seen that a significant proportion of all the issues are related to a misunderstanding of people trying to use this stateful mode. This post attempts to give insight to users on how to use for their applications.
+
+[Link](http://philipperemy.github.io/keras-stateful-lstm/)
