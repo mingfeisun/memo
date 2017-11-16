@@ -34,4 +34,4 @@ The idea of this post is to provide a brief and clear understanding of the state
 ### Awesome Recurrent Neural Networks
 A curated list of resources dedicated to recurrent neural networks (closely related to deep learning).
 
-[Link](https://github.com/mingfeisun/awesome-rnn#machine-translation)
+[Link](https://github.com/mingfeisun/awesome-rnn)
