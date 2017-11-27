@@ -33,6 +33,7 @@ This is a quick win. A traditional rule of thumb when working with neural networ
 * normalized to 0 and 1.
 * rescaled to -1 to 1. 
 * standardized. 
+
 Then evaluate the performance of your model on each. 
 
 > *Related:*
