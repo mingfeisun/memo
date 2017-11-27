@@ -1,7 +1,7 @@
 ### How to improve deep learning performance
 * From [here](https://machinelearningmastery.com/improve-deep-learning-performance/)
 * Created: 2017-11-13
-* Updated: 2017-11-14
+* Updated: 2017-11-27
 
 I have divided the list into 4 sub-topics:
 
