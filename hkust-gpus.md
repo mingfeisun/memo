@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-28
-* Updated: 2017-11-30
+* Updated: 2017-12-01
 
 
 ### CSE department GPU
@@ -15,4 +15,8 @@ ssh 192.168.2.200
 ssh 192.168.2.201
 ssh 192.168.2.202
 ssh 192.168.2.203
+```
+Remote mount:
+``` bash 
+sftp://whatlab@143.89.191.40
 ```
