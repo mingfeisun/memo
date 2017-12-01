@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-09
-* Updated: 2017-11-10
+* Updated: 2017-12-01
 
 ### 1. Install the driver for GPU:
 http://www.nvidia.co.jp/Download/index.aspx
@@ -50,6 +50,8 @@ sudo pip install tensorflow-gpu
 ### 6. Install Keras:
 ``` bash
 sudo pip install keras
+# install a specific Keras
+# sudo pip install keras==2.0.8
 ```
 
 ### 7. Install H5py
