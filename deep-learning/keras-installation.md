@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-09
-* Updated: 2017-12-01
+* Updated: 2017-12-14
 
 ### 1. Install the driver & CUDA toolkit for GPU:
 https://developer.nvidia.com/cuda-downloads
