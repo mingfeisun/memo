@@ -4,10 +4,7 @@
 * Created: 2017-11-09
 * Updated: 2017-12-01
 
-### 1. Install the driver for GPU:
-http://www.nvidia.co.jp/Download/index.aspx
-
-### 2. Install CUDA toolkit for GPU:
+### 1. Install the driver & CUDA toolkit for GPU:
 https://developer.nvidia.com/cuda-downloads
 ``` bash
 sudo dpkg -i cuda-repo-ubuntu1604-8-0-local_8.0.61-1_amd64.deb
@@ -18,7 +15,7 @@ Then *important*:
 sudo apt-get install cuda-8-0
 ```
 
-### 3. Install cuDNN:
+### 2. Install cuDNN:
 https://developer.nvidia.com/rdp/cudnn-download
 
 *Membership Info*:
@@ -32,7 +29,7 @@ cp include/* /usr/local/cuda/include
 cp lib64/* /usr/local/cuda/lib64
 ```
 
-### 4. Set **$PATH** and **$LD_LIBRARY_PATH**
+### 3. Set **$PATH** and **$LD_LIBRARY_PATH**
 ``` bash
 echo 'export PATH=$PATH:/usr/local/cuda/bin' >> $HOME/.profile; source $HOME/.profile
 echo 'export PATH=$PATH:/usr/local/cuda/bin' >> $HOME/.bashrc; source $HOME/.bashrc
@@ -41,19 +38,19 @@ echo 'export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH' >> ~/.profi
 echo 'export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH' >> ~/.bashrc; source ~/.bashrc
 ```
 
-### 5. Install TensorFlow
+### 4. Install TensorFlow
 ``` bash
 sudo pip install tensorflow-gpu
 ```
 
-### 6. Install Keras:
+### 5. Install Keras:
 ``` bash
 sudo pip install keras
 # install a specific Keras
 # sudo pip install keras==2.0.8
 ```
 
-### 7. Install H5py
+### 6. Install H5py
 ``` bash
 sudo pip install h5py
 ```
