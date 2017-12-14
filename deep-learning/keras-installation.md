@@ -10,8 +10,7 @@ http://www.nvidia.co.jp/Download/index.aspx
 ### 2. Install CUDA toolkit for GPU:
 https://developer.nvidia.com/cuda-downloads
 ``` bash
-sudo dpkg -i cuda-repo-ubuntu1604-9-0-local_9.0.176-1_amd64.deb
-sudo apt-key add /var/cuda-repo-<version>/7fa2af80.pub
+sudo dpkg -i cuda-repo-ubuntu1604-8-0-local_8.0.61-1_amd64.deb
 sudo apt-get update
 ```
 Then *important*:
