@@ -58,3 +58,12 @@ or
 ``` bash
 sudo apt-get install python-h5py
 ```
+
+### 7. Install Hyperas
+``` bash
+sudo pip install hyperas
+```
+If encounter problem like: TypeError: 'generator' object has no attribute 'getitem', then install the following package:
+``` bash
+sudo pip install networkx==1.11
+```
