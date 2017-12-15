@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-09
-* Updated: 2017-12-14
+* Updated: 2017-12-15
 
 ### 1. Install the driver & CUDA toolkit for GPU:
 https://developer.nvidia.com/cuda-downloads
@@ -12,7 +12,7 @@ sudo apt-get update
 ```
 Then *important*:
 ``` bash
-sudo apt-get install cuda-8-0
+sudo apt-get install cuda
 ```
 
 ### 2. Install cuDNN:
