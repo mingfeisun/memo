@@ -23,7 +23,7 @@ https://developer.nvidia.com/rdp/cudnn-download
 > 
 > password: Sun123457
 
-Select: Download cuDNN v6.0. After tar, copy files to the right directory:
+Select: Download cuDNN v6.0. After untar, copy files to the right directory:
 ``` bash
 cp include/* /usr/local/cuda/include
 cp lib64/* /usr/local/cuda/lib64
