@@ -1,1 +1,12 @@
 
+## Compiling latex file within vim
+``` bash
+# install texlive in ubuntu 
+sudo apt-get install texlive-full
+
+# compile under personal vimrc file
+[space key] + ll
+
+# references/index: in vim command mode
+:!makeindex
+```
