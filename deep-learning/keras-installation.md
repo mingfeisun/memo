@@ -5,7 +5,7 @@
 * Updated: 2017-12-15
 
 ### 1. Install the driver & CUDA toolkit for GPU:
-https://developer.nvidia.com/cuda-downloads
+https://developer.nvidia.com/cuda-80-ga2-download-archive
 ``` bash
 sudo dpkg -i cuda-repo-ubuntu1604-8-0-local_8.0.61-1_amd64.deb
 sudo apt-get update
