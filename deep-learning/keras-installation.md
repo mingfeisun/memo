@@ -40,7 +40,8 @@ echo 'export LD_LIBRARY_PATH=/usr/local/cuda/lib64:$LD_LIBRARY_PATH' >> ~/.bashr
 
 ### 4. Install TensorFlow
 ``` bash
-sudo pip install tensorflow-gpu
+# tensorflow 1.4 (compatible with cuda 8.0)
+sudo pip install tensorflow-gpu==1.4
 ```
 
 ### 5. Install Keras:
