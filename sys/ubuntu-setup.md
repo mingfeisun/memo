@@ -69,6 +69,7 @@ git clone https://github.com/vim-airline/vim-airline
 
 *color*
 ``` bash
+mkdir -p ~/.vim/colors
 cd ~/.vim/colors
 wget https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim
 ```
