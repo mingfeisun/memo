@@ -124,3 +124,6 @@ sudo add-apt-repository ppa:levi-armstrong/ppa
 sudo apt update && sudo apt install qt59creator
 sudo apt install qt57creator-plugin-ros
 ```
+
+### PyCharm
+Download link [here](https://www.jetbrains.com/pycharm-edu/download/download-thanks.html?platform=linux)
