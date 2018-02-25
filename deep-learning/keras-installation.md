@@ -25,8 +25,8 @@ https://developer.nvidia.com/rdp/cudnn-download
 
 Select: Download cuDNN v6.0. After untar, copy files to the right directory:
 ``` bash
-cp include/* /usr/local/cuda/include
-cp lib64/* /usr/local/cuda/lib64
+sudo cp include/* /usr/local/cuda/include
+sudo cp lib64/* /usr/local/cuda/lib64
 ```
 
 ### 3. Set **$PATH** and **$LD_LIBRARY_PATH**
