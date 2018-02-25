@@ -12,7 +12,7 @@ sudo apt-get update
 ```
 Then *important*:
 ``` bash
-sudo apt-get install cuda
+sudo apt-get install cuda-8-0
 ```
 
 ### 2. Install cuDNN:
