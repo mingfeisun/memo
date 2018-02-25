@@ -58,7 +58,7 @@ curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 *gitgutter*
 ``` bash
 cd ~/.vim/bundle
-git clone git://github.com/airblade/vim-gitgutter.git
+git clone https://github.com/airblade/vim-gitgutter.git
 ```
 
 *airline*
