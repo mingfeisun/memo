@@ -47,7 +47,10 @@ sudo apt-get install vim-gnome
 
 *Pathogen*
 ``` bash
-# install
+# install curl first
+sudo apt-get install curl
+
+# install pathogen
 mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 ```
