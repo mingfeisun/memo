@@ -20,6 +20,15 @@ sudo pip install scipy
 sudo pip install pandas
 ```
 
+### SSH 
+``` bash
+sudo apt-get install openssh-server
+# start service
+sudo /etc/init.d/ssh start
+# check status
+sudo /etc/init.d/ssh status
+```
+
 ### Git
 ``` bash
 sudo apt-get install git
