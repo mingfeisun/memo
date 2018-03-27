@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-09
-* Updated: 2017-11-09
+* Updated: 2018-03-27
 
 ### Preliminary
 ``` bash
@@ -132,6 +132,16 @@ sudo add-apt-repository ppa:levi-armstrong/qt-libraries-xenial
 sudo add-apt-repository ppa:levi-armstrong/ppa
 sudo apt update && sudo apt install qt59creator
 sudo apt install qt57creator-plugin-ros
+```
+
+### Wubi input method
+``` bash
+# install
+sudo apt-get install ibus-table-wubi
+
+# initialize
+killall ibus-daemon
+ibus-daemon -drx
 ```
 
 ### PyCharm
