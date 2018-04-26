@@ -34,6 +34,11 @@ sudo /etc/init.d/ssh status
 sudo apt-get install git
 ```
 
+### Hg
+``` bash
+sudo apt-get install mercurial
+```
+
 
 ### Remaping
 *Keyboard*
