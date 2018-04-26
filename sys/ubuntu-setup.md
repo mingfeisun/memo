@@ -151,3 +151,6 @@ ibus-daemon -drx
 
 ### PyCharm
 Download link [here](https://www.jetbrains.com/pycharm-edu/download/download-thanks.html?platform=linux)
+
+### Visual Studio 
+Download link [here](https://code.visualstudio.com/download)
