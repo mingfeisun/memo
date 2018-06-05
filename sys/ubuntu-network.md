@@ -1,4 +1,4 @@
-### Networking solution 
+### Motherboard networking solution 
 
 Some motherboards are designed for windows system, e.g., Asus ROG etc. When installed with Linux OS, the motherboard may fail to connect to network due to following errors:
 
