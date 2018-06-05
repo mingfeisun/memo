@@ -1,5 +1,9 @@
 ### Motherboard networking solution 
 
+* Mingfei Sun
+* Created: 2018-06-05
+* Updated: 2018-06-05
+
 Some motherboards are designed for windows system, e.g., Asus ROG etc. When installed with Linux OS, the motherboard may fail to connect to network due to following errors:
 
 #### NVM checksum is Not Valid
