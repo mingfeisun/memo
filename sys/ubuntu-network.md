@@ -34,9 +34,10 @@ sudo update-initramfs -u
 
 #### Qualcomm Atheros firmware missing
 1. Download Linux firmware from [here](https://launchpad.net/ubuntu/xenial/+package/linux-firmware)
-2. install as follows:
+2. Install the new firmware:
 ```
 sudo dpkg -i linux-firmware_****_all.deb
 ```
 3. Reboot
+
 [Read more](https://askubuntu.com/questions/607707/ath10k-installation)
