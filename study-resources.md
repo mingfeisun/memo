@@ -5,6 +5,7 @@
 * Updated: 2018-06-06
 
 ---
+> **Robotics**
 
 ### Human-Robot Interactioon: Algorithms & Experiments
 * Instructor: Andrea Thomaz & Guy Hoffman.
@@ -26,6 +27,8 @@
 
 ---
 
+> **Computer Vision**
+
 ### Computer Vision I: Variational Methods
 * Instructor: Daniel Cremers
 * Institute: Technical University of Munich
@@ -40,6 +43,8 @@
 
 ---
 
+> **Machine Learning**
+
 ### Reinforcement Learning
 * Instructor: David Silver
 * Institute: University College London
@@ -51,8 +56,6 @@
 * Institute: UC Berkeley
 * More: UC Berkeley CS 294. Instructor Sergey Levine. 
 * [Link](http://rll.berkeley.edu/deeprlcourse/)
-
----
 
 ### Deep Learning
 * Author: Ian Goodfellow, Yoshua Bengio and Aaron Courville
