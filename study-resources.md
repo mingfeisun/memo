@@ -2,7 +2,7 @@
 
 * Mingfei Sun (mingfei.sun.hk@gmail.com)
 * Created: 2017-11-10
-* Updated: 2017-11-10
+* Updated: 2018-06-06
 
 ---
 
@@ -17,6 +17,12 @@
 * Institute: Albert-Ludwigs-Universität Freiburg
 * More: This course will introduce basic concepts and techniques used within the field of mobile robotics. We analyze the fundamental challenges for autonomous intelligent systems and present the state of the art solutions. 
 * [Link](http://ais.informatik.uni-freiburg.de/teaching/ss17/robotics/)
+
+### Robot Kinematics and Dynamics
+* Instructor: Howie Choset
+* Institute: CMU
+* More: This class focuses on the kinematics, dynamics and programming of robotic mechanisms. The fundamental techniques apply to robotic arms, mobile robots, active sensor platforms and other computer-controlled kinematic linkages. Arms are the primary application, and we will study 2D and 3D concepts using motors from Hebi Robotics.  
+* [Link](https://sites.google.com/site/robotkinematicscmu/)
 
 ---
 
