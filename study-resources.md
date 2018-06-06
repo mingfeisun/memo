@@ -22,7 +22,7 @@
 * Instructor: Howie Choset
 * Institute: CMU
 * More: This class focuses on the kinematics, dynamics and programming of robotic mechanisms. The fundamental techniques apply to robotic arms, mobile robots, active sensor platforms and other computer-controlled kinematic linkages. Arms are the primary application, and we will study 2D and 3D concepts using motors from Hebi Robotics.  
-* [Link](https://sites.google.com/site/robotkinematicscmu/)
+* [Link](https://sites.google.com/site/robotkinematicscmu/) [Video](https://www.youtube.com/playlist?list=PLpIxOj-HnDsOcKdRPsbBezbj-xr0FGRyr)
 
 ---
 
