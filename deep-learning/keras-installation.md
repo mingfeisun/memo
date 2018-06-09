@@ -21,7 +21,7 @@ https://developer.nvidia.com/rdp/cudnn-download
 *Membership Info*:
 > username: mingfei.sun.hk@gmail.com
 > 
-> password: S******0*0*
+> password: S*********9
 
 Select: Download **cuDNN v6.0**. After untar, copy files to the right directory:
 ``` bash
