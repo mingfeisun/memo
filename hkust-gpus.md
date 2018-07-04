@@ -20,3 +20,12 @@ Remote mount:
 ``` bash 
 sftp://whatlab@143.89.191.40
 ```
+
+### 4203 Lab GPU
+``` bash
+ssh mingfei@10.89.185.156
+```
+Remote mount:
+```bash 
+sftp://mingfei@10.89.185.156
+```
