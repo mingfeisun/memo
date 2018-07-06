@@ -87,6 +87,5 @@ wifi.powersave = 2
 # NM_SETTING_WIRELESS_POWERSAVE_ENABLE (3): enable powersave
 ```
 
-Done
 [Read more](https://unix.stackexchange.com/questions/269661/how-to-turn-off-wireless-power-management-permanently)
 
