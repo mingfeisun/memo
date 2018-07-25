@@ -1,7 +1,7 @@
 ## Git commands
 * Mingfei Sun
 * Created at: 2018-07-23
-* Modified at: 2018-07-23
+* Modified at: 2018-07-25
 
 ### Branch operations
 * Create a new branch from current branch
@@ -15,4 +15,8 @@ git checkout <new_name>
 * Delete a branch
 ``` bash
 git branch -d <new_name>
+```
+* Delete dead files in history
+``` bash
+git gc --prune=now --aggressive
 ```
