@@ -29,3 +29,8 @@ git rev-list --objects --all \
 | cut -c 1-12,41- \
 | numfmt --field=2 --to=iec-i --suffix=B --padding=7 --round=nearest
 ```
+* merge
+ ```bash
+ # under current branch
+ git merge <new_branch>
+ ```
