@@ -1,7 +1,12 @@
 ## Ubuntu Commands
 * Mingfei Sun
 * Created: 2017-11-15
-* Updated: 2017-11-15
+* Updated: 2018-08-16
+
+### Speed up a video
+``` bash
+mencoder -speed 2 -o output.avi -ovc lavc input.avi
+```
 
 ### Pass command1 output to command2
 You can use xargs, with the -t flag xargs will be verbose and prints the commands it executes:
