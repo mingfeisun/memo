@@ -1,4 +1,4 @@
-## Useful python libraries
+## Useful python packages
 * Mingfei Sun
 * Created: 2018-01-24
 * Updated: 2018-01-24
@@ -21,3 +21,6 @@ def make_trouble():
 def make_trouble():
     '''Retry on ZeroDivisionError, raise error after 3 attempts, sleep 2 seconds between attempts.'''
 ```
+
+### [mpi4py](https://mpi4py.readthedocs.io/en/stable/)
+[Tutorials](https://mpi4py.readthedocs.io/en/stable/tutorial.html) for mpi4py
