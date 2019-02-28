@@ -46,6 +46,10 @@ sudo apt-get install mercurial
 sudo apt-get install gnome-tweak-tool
 gnome-tweak-tool
 ```
+or
+``` bash
+setxkbmap -layout us -option ctrl:nocaps
+```
 
 *Terminal*
 ``` bash
