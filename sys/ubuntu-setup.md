@@ -39,7 +39,7 @@ sudo apt-get install git
 ssh-keygen -t rsa -b 4096 -C "mingfei.sun.hk@gmail.com"
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
-gedit ~/.ssh/id_ras.pub
+gedit ~/.ssh/id_rsa.pub
 ```
 
 ### Hg
