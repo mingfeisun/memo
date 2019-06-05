@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-09
-* Updated: 2018-03-27
+* Updated: 2019-06-05
 
 ### Preliminary
 ``` bash
@@ -32,6 +32,14 @@ sudo /etc/init.d/ssh status
 ### Git
 ``` bash
 sudo apt-get install git
+```
+
+### Github SSH key
+``` shell
+ssh-keygen -t rsa -b 4096 -C "mingfei.sun.hk@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+gedit ~/.ssh/id_ras.pub
 ```
 
 ### Hg
