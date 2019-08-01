@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-09
-* Updated: 2019-06-05
+* Updated: 2019-08-01
 
 ### Preliminary
 ``` bash
@@ -57,6 +57,10 @@ gnome-tweak-tool
 or
 ``` bash
 setxkbmap -layout us -option ctrl:nocaps
+```
+or
+``` bash
+sudo dpkg-reconfigure keyboard-configuration
 ```
 
 *Terminal*
