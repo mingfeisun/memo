@@ -7,7 +7,7 @@ sudo apt-get install lrzsz
 
 * MPI
 ``` bash 
-sudo apt-get install openmpi-bin openmpi-common libopenmpi libopenmpi-dbg libopenmpi-dev
+sudo apt-get install openmpi-common libopenmpi-dev
 ```
 
 * Terminal input
