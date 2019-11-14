@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-09
-* Updated: 2019-08-01
+* Updated: 2019-11-14
 
 ### Preliminary
 ``` bash
@@ -67,6 +67,11 @@ sudo dpkg-reconfigure keyboard-configuration
 ``` bash
 echo 'set editing-mode vi' >> ~/.inputrc
 echo 'set keymap vi' >> ~/.inputrc
+```
+
+*File transmission*
+``` bash 
+sudo apt-get install lrzsz
 ```
 
 ### Vim
