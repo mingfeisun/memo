@@ -2,7 +2,7 @@
 
 * Mingfei Sun
 * Created: 2017-11-09
-* Updated: 2019-11-14
+* Updated: 2020-05-19
 
 ### Preliminary
 ``` bash
@@ -175,3 +175,13 @@ Download link [here](https://www.jetbrains.com/pycharm-edu/download/download-tha
 
 ### Visual Studio 
 Download link [here](https://code.visualstudio.com/download)
+
+### SSH key setup
+* Generate keys
+``` bash
+ssh-keygen -t rsa
+```
+* Copy keys to remote server
+``` bash
+cat .ssh/id_rsa.pub | ssh [username]@[address] 'cat >> .ssh/authorized_keys'
+```
